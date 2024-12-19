@@ -1,4 +1,11 @@
-# awesome-hono
+<div align="center">
+	<div>
+		<img width="500" src="assets/awesome-hono.svg" alt="Awesome Node.js">
+		<br>
+	</div>
+</div>
+
+# Awesome-Hono
 
 Hono.js is a Web application framework
 Fast, lightweight, built on Web Standards. Support for any JavaScript runtime.
